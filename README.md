@@ -7,3 +7,5 @@ kuroda_helloworld
 Hello
 
 Hello miyazaki2
+
+Hello from Komatsu !!
